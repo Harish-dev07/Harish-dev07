@@ -46,7 +46,7 @@
 
 ---
 
-## 📈 Last Year Contributions
+## 📈 This Month Contributions
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harish-dev07&theme=github-compact&bg_color=0d0d0d&color=FF10F0&line=00F5FF&point=FFD700&area=true&area_color=ff10f020&hide_border=true" alt="Contribution Graph" />
 </p>
